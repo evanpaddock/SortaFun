@@ -1,0 +1,14 @@
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\bin\Debug\net8.0\VSCodeSortFun.exe
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\bin\Debug\net8.0\VSCodeSortFun.deps.json
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\bin\Debug\net8.0\VSCodeSortFun.runtimeconfig.json
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\bin\Debug\net8.0\VSCodeSortFun.dll
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\bin\Debug\net8.0\VSCodeSortFun.pdb
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.AssemblyInfoInputs.cache
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.AssemblyInfo.cs
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.csproj.CoreCompileInputs.cache
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.dll
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\refint\VSCodeSortFun.dll
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.pdb
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\VSCodeSortFun.genruntimeconfig.cache
+C:\Users\Evan Paddock\Desktop\VSCodeSortFun\obj\Debug\net8.0\ref\VSCodeSortFun.dll
