@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSCodeSortFun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ce8d0a16e3706b6ea1abcca31bad19c326b4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSCodeSortFun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSCodeSortFun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

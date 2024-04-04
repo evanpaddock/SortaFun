@@ -1,5 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Just some fun writing different sorting algorithms in C#
+
 using System.ComponentModel.DataAnnotations;
+using System.Globalization;
+using System.Runtime.ExceptionServices;
 
 static void BubbleSort(int[] numbers)
 {
@@ -69,13 +72,30 @@ static void Swap(int smallerIndex, int largerIndex, int[] numbers)
     (numbers[smallerIndex], numbers[largerIndex]) = (numbers[largerIndex], numbers[smallerIndex]);
 }
 
+static void MergeSort(int[] numbers){
+    void mergeSort(int[] numbers){
+
+    }
+ int len = numbers.Length;
+
+ int halfIndex = len/2;
+
+ int[] firstSplitArray = numbers[0..halfIndex];
+ int[] secondSplitArray = numbers[halfIndex..len];
+
+
+}
+
+
+
+
 int[] numbers = [10, 9, 3, 4, 5, 6, 7, 1, 2, 8];
 
 var watch = System.Diagnostics.Stopwatch.StartNew();
 BubbleSort(numbers);
 watch.Stop();
 var elapsedMs = watch.ElapsedMilliseconds;
-Console.WriteLine($"Time: {elapsedMs}");
+Console.WriteLine($"Time: {elapsedMs}ms");
 Console.ReadKey();
 
 numbers = [10, 9, 3, 4, 5, 6, 7, 1, 2, 8];
@@ -84,5 +104,5 @@ watch = System.Diagnostics.Stopwatch.StartNew();
 SelectionSort(numbers);
 watch.Stop();
 elapsedMs = watch.ElapsedMilliseconds;
-Console.WriteLine($"Time: {elapsedMs}");
+Console.WriteLine($"Time: {elapsedMs}ms");
 Console.ReadKey();
